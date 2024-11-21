@@ -1,2 +1,2 @@
 # ForMyTeammates
-This is Java Fondamental
+This is Java Fondamental(Bulgarian)
