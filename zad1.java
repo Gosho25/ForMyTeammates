@@ -3,6 +3,6 @@ public class zad1 {
         int myAge = 15;//int e tiput na promenlivata(samo celi chisla)
         int herAge = myAge;
         //izpolzvame camilskoto pisane za promenl.(purvata duma zapo4va s malka bukva a vsqka sledvashta-s golemi
-        System.out.println(herAge);
+        System.out.println(herAge); 
     }
 }
